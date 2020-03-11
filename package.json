@@ -1,0 +1,31 @@
+{
+  "name": "Hooks-API-lab-31",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goorob-401-advanced-javascript/Hooks-API-lab-31.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goorob-401-advanced-javascript/Hooks-API-lab-31/issues"
+  },
+  "homepage": "https://github.com/Goorob-401-advanced-javascript/Hooks-API-lab-31#readme",
+  "dependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "gh-pages": "^2.2.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-jsonschema-form": "^1.8.1",
+    "react-scripts": "^3.4.0",
+    "react-test-renderer": "^16.13.0"
+  }
+}
